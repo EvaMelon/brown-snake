@@ -1,0 +1,22 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "my 1st game",
+  "main": "snake.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
+  },
+  "scripts": {
+    "test": "karma start --single-run"
+  },
+  "keywords": [
+    "game",
+    "snake"
+  ],
+  "author": "Ewa",
+  "license": "ISC"
+}
